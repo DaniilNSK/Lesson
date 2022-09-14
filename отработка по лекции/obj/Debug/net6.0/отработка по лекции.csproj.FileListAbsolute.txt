@@ -1,0 +1,5 @@
+C:\Users\1\Desktop\Seminar C#\Lesson1\отработка по лекции\obj\Debug\net6.0\отработка по лекции.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Seminar C#\Lesson1\отработка по лекции\obj\Debug\net6.0\отработка по лекции.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Seminar C#\Lesson1\отработка по лекции\obj\Debug\net6.0\отработка по лекции.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Seminar C#\Lesson1\отработка по лекции\obj\Debug\net6.0\отработка по лекции.AssemblyInfo.cs
+C:\Users\1\Desktop\Seminar C#\Lesson1\отработка по лекции\obj\Debug\net6.0\отработка по лекции.csproj.CoreCompileInputs.cache
