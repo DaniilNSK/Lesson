@@ -1,0 +1,15 @@
+C:\Users\Софья Дмитриевна\Desktop\семинар\Lesson\Lesson\Homework\Задача58\bin\Debug\net6.0\Задача58.exe
+C:\Users\Софья Дмитриевна\Desktop\семинар\Lesson\Lesson\Homework\Задача58\bin\Debug\net6.0\Задача58.deps.json
+C:\Users\Софья Дмитриевна\Desktop\семинар\Lesson\Lesson\Homework\Задача58\bin\Debug\net6.0\Задача58.runtimeconfig.json
+C:\Users\Софья Дмитриевна\Desktop\семинар\Lesson\Lesson\Homework\Задача58\bin\Debug\net6.0\Задача58.dll
+C:\Users\Софья Дмитриевна\Desktop\семинар\Lesson\Lesson\Homework\Задача58\bin\Debug\net6.0\Задача58.pdb
+C:\Users\Софья Дмитриевна\Desktop\семинар\Lesson\Lesson\Homework\Задача58\obj\Debug\net6.0\Задача58.csproj.AssemblyReference.cache
+C:\Users\Софья Дмитриевна\Desktop\семинар\Lesson\Lesson\Homework\Задача58\obj\Debug\net6.0\Задача58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья Дмитриевна\Desktop\семинар\Lesson\Lesson\Homework\Задача58\obj\Debug\net6.0\Задача58.AssemblyInfoInputs.cache
+C:\Users\Софья Дмитриевна\Desktop\семинар\Lesson\Lesson\Homework\Задача58\obj\Debug\net6.0\Задача58.AssemblyInfo.cs
+C:\Users\Софья Дмитриевна\Desktop\семинар\Lesson\Lesson\Homework\Задача58\obj\Debug\net6.0\Задача58.csproj.CoreCompileInputs.cache
+C:\Users\Софья Дмитриевна\Desktop\семинар\Lesson\Lesson\Homework\Задача58\obj\Debug\net6.0\Задача58.dll
+C:\Users\Софья Дмитриевна\Desktop\семинар\Lesson\Lesson\Homework\Задача58\obj\Debug\net6.0\refint\Задача58.dll
+C:\Users\Софья Дмитриевна\Desktop\семинар\Lesson\Lesson\Homework\Задача58\obj\Debug\net6.0\Задача58.pdb
+C:\Users\Софья Дмитриевна\Desktop\семинар\Lesson\Lesson\Homework\Задача58\obj\Debug\net6.0\Задача58.genruntimeconfig.cache
+C:\Users\Софья Дмитриевна\Desktop\семинар\Lesson\Lesson\Homework\Задача58\obj\Debug\net6.0\ref\Задача58.dll
